@@ -10,7 +10,7 @@ GMAIL_EMAIL = os.getenv('GMAIL_EMAIL', 'zeyad60win@gmail.com')  # Default fallba
 
 CONFIG = {
     # Referral code used for registration
-    'REFERRAL_CODE': 'phoenix-zeyad',
+    'REFERRAL_CODE': 'Ifl6Ya4VXw',
 
     # File paths
     'FILES': {
