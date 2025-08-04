@@ -75,7 +75,7 @@ def main():
                                                                  ░
     """)
     print("\n" + "="*60)
-    print("🤖  \033[1;36mUNICH Project Automation by PhoenixCrypto_PC\033[0m  🤖")
+    print("🤖  \033[1;36mUNICH Project Automation by Mahar.Atif\033[0m  🤖")
     print("="*60 + "\n")
     # Features in modern style
     print("\033[1;33m✨ Features ✨\033[0m\n")
@@ -84,8 +84,8 @@ def main():
     print("\033[1;35m 3. ⛏️  Start mining for all accounts automatically\033[0m")
     print("\033[1;31m 0. ❌ Exit\033[0m\n")
     print("-"*60)
-    print("📢 Telegram Channel: \033[1;35m@PhoenixCrypto_PC\033[0m")
-    print("🔗 https://t.me/PhoenixCrypto_PC\n")
+    print("📢 Telegram Channel: \033[1;35m@AirdropScripts\033[0m")
+    print("🔗 https://t.meMahar.Atif\n")
     print("-"*60)
     # Options menu in a loop
     options = [
